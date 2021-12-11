@@ -100,6 +100,10 @@ nav{position: sticky;
   background-color: rgb(51, 25, 11);
 }
 #galeria h2{
+  position: absolute;
+  top:10px;
+  left:20px;
+  color:white;
   text-align: center;
   font-family: letra;
   font-size:2.5em;
